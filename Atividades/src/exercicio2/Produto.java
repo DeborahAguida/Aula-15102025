@@ -1,3 +1,4 @@
+package exercicio2;
 public class Produto {
     private String nome;
     private String codigo;
