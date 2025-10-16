@@ -18,4 +18,10 @@ public class Produto {
     public void setQuantidade(int quantidade) { this.quantidade = quantidade;}
     public double getPrecoUnitario() { return precoUnitario; }
     public void setPrecoUnitario(double precoUnitario) { this.precoUnitario = precoUnitario;}
-}
+
+    //public int adicionarEstoque(){
+       // int incrementarEstoque = 5;
+        //int totalEstoque = quantidade + incrementarEstoque;
+       // return totalEstoque;
+    }
+//}
